@@ -1,0 +1,5 @@
+logs/*
+evidencias/screenshots/*
+videos/*
+.env
+*.log
